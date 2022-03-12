@@ -1,0 +1,23 @@
+{
+  "name": "wolfsburg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "esbuild": "^0.14.25",
+    "get-port": "^6.1.2",
+    "ipfs-car": "^0.6.2",
+    "multiformats": "^9.6.4",
+    "standard": "^16.0.4",
+    "tmp-promise": "^3.0.3",
+    "web3.storage": "^3.5.7"
+  }
+}
